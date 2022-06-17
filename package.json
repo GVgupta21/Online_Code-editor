@@ -2,12 +2,12 @@
   "name": "v2",
   "version": "1.0.0",
   "description": "A Restful API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon"
   },
-  "author": "Divij",
+  "author": "Gaurav",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
@@ -30,5 +30,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivijJaswal/OnlineIDE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DivijJaswal/OnlineIDE/issues"
+  },
+  "homepage": "https://github.com/DivijJaswal/OnlineIDE#readme"
 }
